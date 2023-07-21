@@ -1,0 +1,235 @@
+@media only screen and (min-width: 1400px)
+{
+    body{
+        overflow-x: hidden;
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 1280px)
+{
+
+}
+
+
+@media only screen and (min-width: 1201px)
+{
+
+}
+
+@media only screen and (max-width: 1200px)
+{
+
+}
+@media only screen and (max-width: 1024px)
+{
+    .child-col {
+        transform: translate(0%, 195%);
+    }
+    .image-overlay-contents {
+        padding: 53px;
+    }
+    .z-index-image .img-1 {
+        top: 42px;
+        left: 521px;
+    }
+    .z-index-image .img-2 {
+        margin-top: -36px;
+    }
+    .Hero-section {
+        width: 71%;
+        height: 71vh;
+        margin-left: 316px;
+    }
+    .triangle-column {
+        margin-left: -261px;
+    }
+    .modern-furnishings {
+        height: 67vh;
+    }
+}
+@media only screen and (max-width: 992px){
+    .image-overlay-contents {
+        padding: 54px;
+    }
+
+}
+@media only screen and (max-width: 912px){
+    .image-overlay-contents {
+        padding: 26px;
+    }
+    .modern-furnishings {
+        height: 42vh;
+    }
+    .z-index-img {
+        margin-top: 75px;
+    }
+    .z-index-img1 {
+        margin-top: 41px;
+    }
+    .z-index-image .img-2 {
+        margin-top: 70px;
+    }
+    .press_coverage h2 {
+        font-size: 4rem;
+    }
+}
+
+@media only screen and (max-width: 820px){
+    .learn-more-button {
+        height: 35px;
+    }
+    .modern-furnishings {
+        height: 45vh;
+    }
+    .image-overlay-contents {
+        width: 53%;
+        padding: 24px;
+    }
+    .coziness-button {
+        padding: 19px 43px 55px 38px!important;
+    }
+    .z-index-img {
+        margin-top: 83px;
+    }
+    .z-index-img1 {
+        margin-top: 62px;
+    }
+
+    .left-column {
+        margin-left: 72px;
+    }
+}
+@media only screen and (max-width: 768px){
+
+}
+@media only screen and (max-width: 720px){
+
+}
+@media screen and (max-width: 576px){
+.parent-col{
+    width: 100%;
+}
+    .child-col {
+        transform: translate(0%, 81%);
+    }
+    .image-overlay-contents {
+        padding: 68px;
+    }
+    .perfect-home-content h2 {
+        font-size: 3rem;
+    }
+    .z-index-image .img-1 {
+        top: 112px;
+        left: 21px;
+    }
+    .z-index-image .img-1 {
+        width: 44%;
+    }
+    .z-index-image .img-2 {
+        margin-top: 0px;
+    }
+    .z-index-image .img-2 {
+        width: 44%;
+    }
+    .blog-column {
+        width: 100% !important;
+    }
+    .blog-right-column {
+        width: 100%!important;
+    }
+    .z-index-img1 {
+        margin-top: 222px;
+        margin-left: 82px;
+    }
+    .z-index-img1 {
+        width: 50%;
+        margin-top: 290px;
+    }
+    .z-index-img {
+        margin-top: -33px;
+    }
+    .z-index-img {
+        margin-left: 65px;
+        width: 64%;
+    }
+    .left-column {
+        margin-left: 23px;
+    }
+    .Area-define h3{
+        font-size: 18px;
+    }
+    .parent-col h2{
+        font-size: 16px;
+        transform: translate(0%, 198%);
+    }
+    .modern-furnishings{
+        border-top-left-radius: unset;
+        height: 26vh;
+    }
+    .personalized-column {
+        padding-top: 145px;
+    }
+.collection-button a{
+    text-align: center;
+}
+}
+@media screen and (max-width: 412px){
+    .image-overlay-contents {
+        padding: 32px!important;
+    }
+    .coziness-button {
+        padding: 20px 31px 31px 35px!important;
+    }
+    .coziness-button a{
+        font-size: 11px;
+    }
+    .z-index-img1 {
+        width: 50%;
+        margin-top: 199px;
+    }
+    .learn-more-button {
+        height: 59px;
+    }
+    .image-overlay-contents {
+        padding: 32px!important;
+    }
+
+}
+@media screen and (max-width: 375px){
+    .learn-more-button {
+        height: 59px;
+    }
+    .image-overlay-contents {
+        padding: 22px;
+    }
+    .coziness-button {
+        padding: 8px 26px 37px 31px!important;
+    }
+}
+@media screen and (max-width: 280px){
+    .z-index-img {
+        margin-left: 38px;
+    }
+    .z-index-img1 {
+        margin-left: 54px;
+        margin-top: 128px;
+    }
+    .image-overlay-contents h4,p{
+        font-size: 10px;
+    }
+    .perfect-home-content h2 {
+        font-size: 1rem;
+    }
+    .coziness-button {
+        padding: 10px 16px 28px 12px!important;
+    }
+    .coziness-content h2{
+        font-size: 17px!important;
+    }
+    .learn-more-button a{
+        font-size: 12px;
+    }
+    .image-overlay-contents {
+        padding: 32px;
+    }
+}
